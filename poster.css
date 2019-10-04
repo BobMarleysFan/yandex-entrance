@@ -27,13 +27,17 @@ main section{
 }
 
 .info section{
-  display: inline-table;
+  display: inline-grid;
   vertical-align: top;
   width: 46%;
 }
 
 .info{
   margin-bottom: 5%;
+}
+
+.schedule{
+  margin-bottom: 15%;
 }
 
 @font-face {
