@@ -1,0 +1,49 @@
+header img{
+  width: 11.68%;
+  margin-left: 8.42%;
+  height: 3.35%;
+  margin-top: 7.05%;
+}
+
+main{
+  margin-left: 8.42%;
+  font-family: Yandex Sans;
+}
+
+main h1{
+  font-size: 72pt;
+  font-size: 8vw;
+}
+
+main h2{
+  font-size: 23pt;
+  font-weight: 400;
+  font-size: 4.7vw;
+}
+
+main section{
+  font-size: 14pt;
+  font-size: 2vw;
+}
+
+.info section{
+  display: inline-table;
+  vertical-align: top;
+  width: 46%;
+}
+
+.info{
+  margin-bottom: 5%;
+}
+
+@font-face {
+    font-family: 'Yandex Sans';
+    src: local('Yandex Sans Display Regular'), local('Yandex-Sans-Display-Regular'),
+        url('YandexSansDisplay-Regular.woff') format('woff');
+    font-weight: 400;
+}
+
+footer img{
+  width: 99.8%;
+  margin: 0 0.1% 0.1% 0.1%;
+}
